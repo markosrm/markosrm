@@ -90,16 +90,6 @@ No activity tracked
   </picture>
 </div>
 
----
-
-## 🌐 3D Contribution Graph
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D contribution graph"/>
-</div>
-
----
-
 ## 💬 Dev Quote
 
 <div align="center">
