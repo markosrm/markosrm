@@ -1,61 +1,117 @@
-<!-- Profile README — Marcos (markosrm) -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=900&lines=Marcos+Roll%C3%A1n+%E2%80%94+Full%E2%80%91stack;Open+to+learning" alt="Typing SVG" />
-</p>
-
 <div align="center">
-  <a target="_blank"><img src="https://komarev.com/ghpvc/?username=markosrm&style=for-the-badge" alt="Profile views" height="25" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Marcos%20Rollán&fontSize=65&fontColor=e94560&fontAlignY=38&desc=Full-Stack%20Developer%20%40%20AIRInstitute&descAlignY=56&descColor=a8b2d8&animation=fadeIn" alt="Header"/>
 </div>
 
----
-
-### About me
-- Full-stack developer at <a href="https://github.com/AIRInstitute">AIRInstitute</a>
-
-### Skills
-<p align="center">
-  <img height="48" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="48" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img height="48" alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-  <img height="48" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img height="48" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  <img height="48" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img height="48" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img height="48" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-333?logo=javascript&logoColor=F7DF1E&labelColor=111&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-333?logo=typescript&logoColor=3178C6&labelColor=111&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vue%203-333?logo=vue.js&logoColor=42b883&labelColor=111&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-333?logo=node.js&logoColor=5FA04E&labelColor=111&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-333?logo=mongodb&logoColor=47A248&labelColor=111&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-333?logo=docker&logoColor=2496ED&labelColor=111&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java-333?logo=oracle&logoColor=F80000&labelColor=111&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-333?logo=python&logoColor=3776AB&labelColor=111&style=for-the-badge"/>
-</p>
-
-### 🏆 Trophies & activity
 <div align="center">
-
-<img
-  alt="Trophies"
-  src="https://github-profile-trophy.vercel.app/?username=markosrm&no-frame=true&no-bg=true&column=-1&title=-Stars,-Followers,-Issues,-PullRequest,-Repositories,-Reviews&v=2"
-/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=a8b2d8&center=true&vCenter=true&width=600&lines=Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80;Full-stack+%7C+TypeScript+%7C+Vue+3+%7C+Node.js;Clean+code+enthusiast+%F0%9F%A7%BC;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing animation"/>
+</div>
 
 <br/>
 
-<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=markosrm&radius=8&hide_border=true"/>
-
+<div align="center">
+  <a href="mailto:marcosrollanvb@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/markosrm">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=markosrm&style=for-the-badge&color=e94560" alt="Profile views"/>
 </div>
-<p>- Built and maintained <b>full-stack web apps</b>.</p>
-<p>- Experience integrating <b>REST APIs</b>, and persisting data in <b>MongoDB</b>.</p>
-<p>- Comfortable with <b>Docker</b> for local dev, and basic deployment.</p>
-<p>- Focus on <b>performance</b> and <b>documented code</b>.</p>
 
 ---
 
-### 📫 Contact
-- ✉️ **Email**: marcosrollanvb@gmail.com
+## 👾 About Me
+
+<table>
+  <tr>
+    <td valign="top" width="55%">
+
+### Hi, I'm Marcos 👋
+
+Full-stack developer at **AIRInstitute**, focused on building **performant** and **well-documented** web applications.
+
+- 🏢 &nbsp;Working at [AIRInstitute](https://github.com/AIRInstitute)
+- 🌐 &nbsp;Full-stack: from REST APIs to polished UIs
+- 🗄️ &nbsp;Comfortable with **MongoDB**, **Docker** & cloud-ready architectures
+- 📖 &nbsp;Always learning — currently deepening backend expertise
+- 💡 &nbsp;Passionate about **clean code** and **developer experience**
+
+    </td>
+    <td valign="top" width="45%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding animation"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,nodejs,java,py,mongodb,docker&theme=dark&perline=8" alt="Tech stack icons"/>
+</div>
+
+---
+
+## ⏱️ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markosrm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markosrm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markosrm&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak stats"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/markosrm/markosrm/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/markosrm/markosrm/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/markosrm/markosrm/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+---
+
+## 🌐 3D Contribution Graph
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D contribution graph"/>
+</div>
+
+---
+
+## 💬 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
+</div>
+
+---
+
+## ⚡ Dev Partner
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png" width="150" alt="Groudon"/>
+
+  **Groudon** — the continent Pokémon.
+  *Built different. Scales infinitely.*
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" alt="Footer"/>
+</div>
