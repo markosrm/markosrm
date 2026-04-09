@@ -97,19 +97,6 @@ YAML       1 min                 ████▒░░░░░░░░░░�
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
 </div>
 
----
-
-## ⚡ Dev Partner
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png" width="150" alt="Groudon"/>
-
-  **Groudon** — the continent Pokémon.
-  *Built different. Scales infinitely.*
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" alt="Footer"/>
 </div>
