@@ -54,11 +54,6 @@ Full-stack developer at **AIRInstitute**, focused on building **performant** and
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markosrm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markosrm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=markosrm&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak stats"/>
 </div>
 
