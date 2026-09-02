@@ -38,12 +38,11 @@ Full-stack developer at **AIRInstitute**, focused on building **performant** and
 - ☁️ &nbsp;Preparing for **AWS Cloud Practitioner** & **Azure AZ-900**
 - 💡 &nbsp;Passionate about **clean code** and **developer experience**
 
-      </td>
-      <td valign="top" width="45%" align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding animation"/>
-      </td>
-
-    </tr>
+</td>
+<td valign="top" width="45%" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding animation"/>
+</td>
+</tr>
   </table>
 
 ---
