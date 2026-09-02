@@ -31,30 +31,48 @@
 Full-stack developer at **AIRInstitute**, focused on building **performant** and **well-documented** web applications.
 
 - 🏢 &nbsp;Working at [AIRInstitute](https://github.com/AIRInstitute)
+- 🎓 &nbsp;Studying **Computer Engineering** at [UNIR](https://www.unir.net)
 - 🌐 &nbsp;Full-stack: from REST APIs to polished UIs
 - 🗄️ &nbsp;Comfortable with **MongoDB**, **Docker** & cloud-ready architectures
 - 📖 &nbsp;Always learning — currently deepening backend expertise
+- ☁️ &nbsp;Preparing for **AWS Cloud Practitioner** & **Azure AZ-900**
 - 💡 &nbsp;Passionate about **clean code** and **developer experience**
 
-    </td>
-    <td valign="top" width="45%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding animation"/>
-    </td>
-  </tr>
-</table>
+      </td>
+      <td valign="top" width="45%" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding animation"/>
+      </td>
+
+    </tr>
+  </table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,vue,nodejs,java,py,mongodb,docker&theme=dark&perline=8" alt="Tech stack icons"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,vue,html,css&theme=dark&perline=5" alt="TypeScript, JavaScript, Vue, HTML, CSS"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,java,py&theme=dark&perline=3" alt="Node.js, Java, Python"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Data &amp; Ops</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,docker,git&theme=dark&perline=4" alt="MongoDB, Docker, Git"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>📚 Learning</b></td>
+    <td><img src="https://skillicons.dev/icons?i=go,dart,flutter&theme=dark&perline=3" alt="Go, Dart, Flutter"/></td>
+  </tr>
+</table>
 
-## 📊 GitHub Stats
+## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markosrm&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=markosrm&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak stats"/>
 </div>
 
 ---
